@@ -66,14 +66,12 @@ LightGBM으로 생존 안정성을 예측 · Claude 기반 Agent가 추천/리�
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square">
 
 ### [🚁 drone_inspection](https://github.com/eungyu124/drone_inspection)
-드론 기반 시설물 점검 프로젝트.
+드론 결함 탐지 프로젝트.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 
 ### [💬 Clone-chat-gpt](https://github.com/eungyu124/Clone-chat-gpt)
 GPT 기반 챗봇 클론.
 
-### [🌊 project_vibe](https://github.com/eungyu124/project_vibe)
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 
 <div align="center">
   <h2>📊 Stats</h2>
